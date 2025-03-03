@@ -34,3 +34,7 @@ func main() {
                 fmt.Println("Error reading file:", err)
         }
 }
+
+// Usage:
+// 1. go build regex_code_from_weread.go
+// 2. ./regex_code_from_weread your_file.txt
